@@ -11,7 +11,7 @@ Estou em busca de uma oportunidade de estágio em TI, onde possa aplicar meu con
 
 
 <p align="left">
-    <a href="">
+    <a href="https://www.linkedin.com/in/paulo-vilela-123456789/">
         <img 
             alt="LinkedIn"
             title="Meu LinkedIn"
